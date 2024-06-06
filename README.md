@@ -3,6 +3,7 @@
 This is a personal SQL project where I try to apply what I learned from university unit database management and try to build my own database. I used MySQL workbench along with MySQL Server. Everything produced including the entities and attributes are all hypothetical and is not real - they're made based off my domain knowledge of healthcare as someone with a radiology background.
 
 **Normalisations**
+
 1st Normal Form
 All the entities in Task 2 are 1NF because there are no repeating groups in the table, each cell is unique, and all entities have a PK.
 
