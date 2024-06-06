@@ -2,6 +2,20 @@
 
 This is a personal SQL project where I try to apply what I learned from university unit database management and try to build my own database. I used MySQL workbench along with MySQL Server. Everything produced including the entities and attributes are all hypothetical and is not real - they're made based off my domain knowledge of healthcare as someone with a radiology background.
 
+**Normalisations**
+1st Normal Form
+All the entities in Task 2 are 1NF because there are no repeating groups in the table, each cell is unique, and all entities have a PK.
+
+2nd Normal Form
+All entities are 2NF, as all entities have satisfied 1NF and there are no partial dependencies – all non-key attributes are dependent on the primary key.
+
+3rd Normal Form 
+All entities are 3NF, as all entities have satisfied 2NF and there are no transitive dependencies.
+
+Justification
+I have made reasonable assumptions for every entity listed in Task 2 based on personal experiences. All entities were made to be 3NF from the beginning. However, I made sure to double-check by going through the checklist for each level of normal form as stated above.
+
+
 **Entity Relationship Diagram**
 
 This is the ERD I made with crowfoot notations before I tried implementing it into a database.
