@@ -54,17 +54,17 @@ Here's the table to demonstrate what changes were made according to the SQL stat
 
 Adding Column in table Patient:
 
-  Before
-  ![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/c4c57f17-c39e-4f2e-a0e4-0e2a994cef07)
-  After
-  ![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/42ab14b0-b9a3-4076-b7a3-c022d81e7c30)
+Before
+![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/c4c57f17-c39e-4f2e-a0e4-0e2a994cef07)
+After
+![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/42ab14b0-b9a3-4076-b7a3-c022d81e7c30)
 
 Updating Patient's States:
 
-  Before
-  ![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/a31f889a-501c-462c-986c-17c8593259df)
-  After
-  ![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/5b631ea3-ccd3-40cd-8182-b4f836617b0a)
+Before
+![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/a31f889a-501c-462c-986c-17c8593259df)
+After
+![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/5b631ea3-ccd3-40cd-8182-b4f836617b0a)
 
 Wanting to find the names of radiographers and their specialties, sorted by specialty in ascending order:
 ![image](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase/assets/149219810/669cec82-6e54-4e07-9664-15f98060c1ab)
